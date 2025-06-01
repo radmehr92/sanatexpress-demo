@@ -3,6 +3,7 @@ A web application for providing industrial services with a modern interface and 
 
 ## About the Project
 SanatExpress is a platform designed to manage and deliver industrial services efficiently. Built with cutting-edge technologies, it offers a seamless user experience and secure operations.
+
 ⚠️ This project is private, and due to confidentiality agreements, the repository is not publicly accessible.
 
 ## Technologies

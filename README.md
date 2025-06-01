@@ -15,4 +15,4 @@ SanatExpress is a platform designed to manage and deliver industrial services ef
 - Secure RESTful APIs for backend-frontend communication
 
 ## Screenshots
-<img src="https://i.postimg.cc/nV1KdrzM/Screenshot.jpg" />
+<img src="https://i.postimg.cc/90x7c4Rp/Screenshot-1404-03-11-at-17-47-35.png" />
